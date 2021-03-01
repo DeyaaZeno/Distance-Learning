@@ -1,5 +1,5 @@
 # Distance-Learning
-Distance Learning example using HTML &amp; CSS
+Distance Learning example using HTML &amp; CSS & fontawesome
 # Distance Learning example using: 
 - ## HTML 
 - ## CSS
